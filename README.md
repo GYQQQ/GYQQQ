@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GYQQQ
 - 👀 I’m interested in JAVA and PYTHON
-- 🌱 I’m currently learning how to be a good worker
+- 🌱 I’m currently learning how to be a good programmer
 - 💞️ I’m looking to collaborate on everything you want
 
 
